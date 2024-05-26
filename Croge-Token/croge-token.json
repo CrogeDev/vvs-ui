@@ -1,0 +1,13 @@
+{
+  "name": "Croge",
+  "symbol": "CROGE",
+  "address": "0xF1CB690B811c29278C2Bb8859199AaD192444488",
+  "logoURI": "https://raw.githubusercontent.com/CrogeDev/croge-token/main/logo.png",
+  "website": "https://croge.io/",
+  "description": "Croge is a unique cryptocurrency created on the Cronos network, characterized by its playful and engaging branding. It features a logo that closely resembles Dogecoin, and sets itself apart with its vibrant blue Cronos-themed color scheme. In short, it\u2019s the blue Cronos version of Doge. Designed to leverage the security and efficiency of the Cronos blockchain, Croge aims to foster a community-driven environment where participants can engage with a fun and lighthearted digital currency on the Cronos network.",
+  "socials": {
+    "twitter": "https://x.com/CrogeCronos",
+    "discord": "https://discord.com/invite/qmdkxxkeZC",
+    "telegram": "https://t.me/+gelOW0RFOgRlMDYx"
+  }
+}
